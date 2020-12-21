@@ -1,16 +1,16 @@
-	###Bạn đọc:
+	Bạn đọc:
 		•	Xem tin tức
 		•	Tìm kiếm tin tức
 		•	Xem Comment
 		•	Đăng ký thành viên
-	###Thành viên
+	Thành viên
 		•	Xem tin tức
 		•	Tìm kiếm tin tức
 		•	Comment cho mỗi tin tức
 		•	Đăng nhập
 		•	Đổi thông tin
 		•	Đăng xuất (Thoát)
-	###Người quản trị:
+	Người quản trị:
 		•	Xem tin tức
 		•	Tìm kiếm tin tức
 		•	Comment  cho mỗi tin
@@ -23,7 +23,7 @@
 		•	Quản Lý Comment
 		•	Đăng xuất hệ thống (Thoát)
 
-	###Xác định các Usercase
+	Xác định các Usercase
 		•	Xem tin tức
 		•	Tìm kiếm tin tức
 		•	Comment cho mỗi tin tức
