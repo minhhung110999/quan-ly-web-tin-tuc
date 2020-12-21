@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-	Bạn đọc:
-=======
-	###Bạn đọc:	
->>>>>>> e02fbd2071bd9d38264d29b1f714e7e6e78384d4
+	Bạn đọc:	
 		•	Xem tin tức
 		•	Tìm kiếm tin tức
 		•	Xem Comment
