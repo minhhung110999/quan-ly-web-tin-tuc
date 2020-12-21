@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title> Cao Tú An Mai Vương Trọng Nhân  |@yield('title')</title>
+    <title> Web tin tức</title>
     <base href="{{asset('')}}">
 
     <!-- Bootstrap Core CSS -->
