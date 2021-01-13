@@ -103,6 +103,7 @@ class userController extends Controller
 
     public function getdangnhapAdmin()
     {
+        // return view login
         return view('admin.login');
     }
 
