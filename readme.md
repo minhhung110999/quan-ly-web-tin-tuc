@@ -56,3 +56,6 @@
 		•	Xoá comment
 		•	Cập nhật comment
 		•	Đăng thoát hệ thống
+		###Nhiệm vụ của các thành viên trong nhóm:
+		• Nguyễn Minh Hùng: Leader, code
+		• Đào Đăng Quang: Phân tích thiết kế hệ thống
