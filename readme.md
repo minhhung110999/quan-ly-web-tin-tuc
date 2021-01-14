@@ -59,3 +59,4 @@
 		###Nhiệm vụ của các thành viên trong nhóm:
 		• Nguyễn Minh Hùng: Leader, code
 		• Đào Đăng Quang: Phân tích thiết kế hệ thống
+		• Đỗ Đình Huy: Viết báo cáo, Powerpoint
