@@ -24,21 +24,13 @@
 					    
                         <div class="break"></div>
 					   	<h4><span class= "glyphicon glyphicon-home "></span> Địa chỉ : </h4>
-                        <p>71/35B Chế Lan Viên, Quận Tân Phú, Tây Thạnh, HCM </p>
+                        <p>Mai Xuân Thương, Nha Trang </p>
 
                         <h4><span class="glyphicon glyphicon-envelope"></span> Email : </h4>
-                        <p>caotuan250496@gmail.com </p>
+                        <p>tcu.edu.vn@gmail.com </p>
 
                         <h4><span class="glyphicon glyphicon-phone-alt"></span> Điện thoại : </h4>
                         <p>01652547586 </p>
-
-
-
-                        <br><br>
-                        <h3><span class="glyphicon glyphicon-globe"></span> Bản đồ</h3>
-                        <div class="break"></div><br>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.992862437519!2d106.6266364140206!3d10.811857592297452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175295f7d93b4b9%3A0x12546b0cf3569221!2zNzEgQ2jhur8gTGFuIFZpw6puLCBUw6J5IFRo4bqhbmgsIFTDom4gUGjDuiwgSOG7kyBDaMOtIE1pbmggNzAwMDAsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1492072902214" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 					</div>
 	            </div>
         	</div>
