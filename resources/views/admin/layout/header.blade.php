@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="lienhe">Laravel - Quản Lý Webiste Tin Tức</a>
+                <a class="navbar-brand" href="lienhe">Quản Lý Webiste Tin Tức</a>
             </div>
             <!-- /.navbar-header -->
 
