@@ -22,9 +22,6 @@
 				  		@endif
 						
 						@if(session('thongbao'))
-							<div class="alert alert-danger">
-								{{session('thongbao')}}
-							</div>
 						@endif
 				    	<form action="dangnhap" method="post">
 				    		<input type="hidden" name="_token" value="{{csrf_token()}}">
