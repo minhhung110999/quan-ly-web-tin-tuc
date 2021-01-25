@@ -21,8 +21,6 @@
 				  			</div>
 				  		@endif
 						
-						@if(session('thongbao'))
-						@endif
 				    	<form action="dangnhap" method="post">
 				    		<input type="hidden" name="_token" value="{{csrf_token()}}">
 							<div>
